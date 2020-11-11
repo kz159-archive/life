@@ -1,6 +1,7 @@
 """
 Conway game of live implementation
 """
+# TODO ncurses, stop/start, add living cell on the fly
 from time import sleep
 from typing import List
 from random import randrange
